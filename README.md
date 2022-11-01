@@ -32,12 +32,23 @@ If you want to have a chat & discuss some work I've done, feel free to contact m
 
 # Open source code
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=ocelot" />
+
+<br>
+
+<a href="https://github.com/OctoShrew/parallelize">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=parallelize&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=parallelize" />
+
+<br>
+
+<a href="https://github.com/OctoShrew/ocelot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=ocelot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+
+<br>
+<br>
+
 
 ## 💼 Skills
 

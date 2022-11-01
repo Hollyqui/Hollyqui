@@ -1,4 +1,4 @@
-Hi there, I'm Felix. 
+# Hi there, I'm Felix. 
 
 I am currently working as Head of AI @ [Maekersuite](https://maekersuite.com) and am a Strategic Advisor and co-founder @ [OctoShrew](https://octoshrew.com).
 
@@ -6,9 +6,20 @@ I focus strongly on AI, specifically focusing on Natural Language Processing and
 
 If you want to have a chat & discuss some work I've done, feel free to contact me at felix.quinque@gmail.com!
 
+# My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollyqui&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollyqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# Open source code
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=ocelot" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=parallelize" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=hollyqui)

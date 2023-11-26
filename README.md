@@ -5,11 +5,9 @@
 
 # Hi there, I'm Felix. 
 
-I am currently working as Head of AI @ [Maekersuite](https://maekersuite.com) and am a Strategic Advisor and co-founder @ [OctoShrew](https://octoshrew.com).
+Hi, I'm Felix. I combine a deep passion for Machine Learning & AI Research with experience Entrepreneurship & Business Strategy. I am currently leading [Maekersuite](https://maekersuite.com)'s R&D as Head of AI where I leverage LLMs to tell better stories. 
 
-I focus strongly on AI, specifically focusing on Natural Language Processing and working with Large Language Models. Most of my work in done in private repositories, but I am maintaining some open source code which you can find pinned below:)
-
-If you want to have a chat & discuss some work I've done, feel free to contact me via [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/felixquinque/)
+If you want to have a chat or discuss some work I've done, feel free to contact me via [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/felixquinque/)
 !
 
 # My Stats
@@ -26,25 +24,6 @@ If you want to have a chat & discuss some work I've done, feel free to contact m
 <a href="https://github.com/Hollyqui">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollyqui&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
-<br>
-
-# Open source code
-
-
-<br>
-
-<a href="https://github.com/OctoShrew/parallelize">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=parallelize&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/OctoShrew/ocelot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=octoshrew&repo=ocelot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 
 <br>
 <br>
